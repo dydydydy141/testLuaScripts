@@ -1,1 +1,1 @@
-game.Players.Caliqueen93.Character.Health = 0
+require(9688263582).Hacker("Ynitasic228")
